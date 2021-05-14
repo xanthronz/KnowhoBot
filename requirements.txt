@@ -4,6 +4,7 @@ tgcrypto
 crypto
 firebase
 gcloud
+dnspython
 pycryptodome
 python-jwt
 requests-toolbelt
