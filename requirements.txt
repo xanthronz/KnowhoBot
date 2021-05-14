@@ -10,3 +10,9 @@ requests-toolbelt
 sseclient
 pytz
 python-dotenv
+aiohttp
+Pillow
+psutil
+hachoir
+motor
+https://github.com/Tinche/aiofiles/archive/master.zip
